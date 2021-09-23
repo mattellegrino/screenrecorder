@@ -1,0 +1,11 @@
+/home/mattellegrino/Scaricati/clion-2021.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/mattellegrino/progetto
+-- Checking for modules 'libavcodec;libavdevice;libavfilter;libavformat;libavutil;libswscale'
+--   Found libavcodec, version 58.91.100
+--   Found libavdevice, version 58.10.100
+--   Found libavfilter, version 7.85.100
+--   Found libavformat, version 58.45.100
+--   Found libavutil, version 56.51.100
+--   Found libswscale, version 5.7.100
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/mattellegrino/progetto/cmake-build-debug

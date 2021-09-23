@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/progetto.dir/main.cpp.o CMakeFiles/progetto.dir/ScreenRecorder.cpp.o -o progetto   -L/home/mattellegrino/progetto/../ffmpeg_sources/ffmpeg  -Wl,-rpath,/home/mattellegrino/progetto/../ffmpeg_sources/ffmpeg libScreenModule.a -L -l../ffmpeg_sources/ffmpeg/ 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libScreenModule.a CMakeFiles/ScreenModule.dir/main.cpp.o CMakeFiles/ScreenModule.dir/ScreenRecorder.cpp.o
+/usr/bin/ranlib libScreenModule.a
